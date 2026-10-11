@@ -1,0 +1,4 @@
+node_modules/
+.dashboard-data/
+*.log
+*-preview.png
